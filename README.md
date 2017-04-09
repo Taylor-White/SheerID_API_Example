@@ -1,2 +1,1 @@
-# SheerID_API_Example
-Comparing Universities using SheerID API
+# SheerID_API_EXAMPLE
